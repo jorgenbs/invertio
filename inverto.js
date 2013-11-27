@@ -30,4 +30,4 @@
     return false;
   };
   window.inverto.prototype.isApplied = false;
-})()
+})();

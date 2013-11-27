@@ -1,14 +1,15 @@
 {
   "name": "inverto",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     "jorgenbs <jorgenbs@gmail.com>"
   ],
-  "description": "inverts colors of dom elements within a selection",
+  "description": "inverts colors on the entire page that its called upon, including images.",
   "main": "inverto.js",
   "keywords": [
     "color",
-    "invert"
+    "invert",
+    "inverter",
   ],
   "license": "MIT",
   "ignore": [
