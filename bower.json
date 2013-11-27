@@ -1,0 +1,21 @@
+{
+  "name": "inverto",
+  "version": "0.0.0",
+  "authors": [
+    "jorgenbs <jorgenbs@gmail.com>"
+  ],
+  "description": "inverts colors of dom elements within a selection",
+  "main": "inverto.js",
+  "keywords": [
+    "color",
+    "invert"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
